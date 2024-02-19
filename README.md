@@ -28,6 +28,6 @@ For this project, I made use of Google BigQuery and Tableau to analyse hotel res
 </br>
 ## Tableau Dashboard
 </br>
-![dashboard](https://github.com/Nalito/Hotel-Reservation-Analysis-in-SQL-and-Tableau/blob/main/dashboard.png?raw=true)
+![dashboard](dashboard.png)
 
 
