@@ -24,7 +24,7 @@ For this project, I made use of Google BigQuery and Tableau to analyse hotel res
 6. Hotels with the most cancellations </br> <img width="640" alt="image" src="https://github.com/Nalito/Hotel-Reservation-Analysis-in-SQL-and-Tableau/assets/71222572/3e8b5574-fb97-454b-9a99-1450cd858c66">
 
 
-<hr/>
+<hr>
 </br>
 ## Tableau Dashboard
 </br>
